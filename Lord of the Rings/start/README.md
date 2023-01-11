@@ -6,7 +6,7 @@ The main goal of this kata is to refactor the code we have in order to get an ea
 
 ## What we need
 
-- .NET Core 7
+- [.NET Core 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 - Visual Studio / Rider
 
 ## Requisites
